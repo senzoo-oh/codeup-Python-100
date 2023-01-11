@@ -1,1 +1,1 @@
-board[int(x)-1][i] = 0
+mirror_box[x][y] = 9
